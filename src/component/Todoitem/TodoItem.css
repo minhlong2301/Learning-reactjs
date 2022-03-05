@@ -1,0 +1,18 @@
+.items {
+  display: flex;
+  justify-content: center;
+}
+.item-todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  background-color: rgb(83, 168, 248);
+  margin-top: 18px;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
